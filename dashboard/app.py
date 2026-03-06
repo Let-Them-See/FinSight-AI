@@ -51,7 +51,7 @@ import streamlit as st
 # ── Page configuration — must be FIRST Streamlit call ────────────────────────
 st.set_page_config(
     page_title    = "FinSight AI | Financial Intelligence Platform",
-    page_icon     = "💹",
+    page_icon     = "₹",
     layout        = "wide",
     initial_sidebar_state = "expanded",
     menu_items    = {
@@ -317,7 +317,7 @@ header[data-testid="stHeader"] {{
 with st.sidebar:
     st.markdown(f"""
     <div class="finsight-brand">
-        <div class="finsight-brand-icon">💹</div>
+        <div class="finsight-brand-icon">₹</div>
         <h1 class="finsight-brand-name">FinSight AI</h1>
         <div class="finsight-brand-bar"></div>
         <p class="finsight-brand-sub">Financial Intelligence Platform</p>
@@ -361,7 +361,7 @@ if "Overview" in selected_module:
     st.markdown(f"""
     <div class="finsight-header">
         <div style="display:flex; align-items:center; gap:1rem; margin-bottom:0.6rem;">
-            <span style="font-size:3.5rem; filter:drop-shadow(0 0 12px rgba(255,177,98,0.6));">💹</span>
+            <span style="font-size:3.5rem; filter:drop-shadow(0 0 12px rgba(255,177,98,0.6));">₹</span>
             <div>
                 <h1 style="background:linear-gradient(90deg, #FFB162, #FFECD0);
                            -webkit-background-clip:text; -webkit-text-fill-color:transparent;

@@ -68,7 +68,7 @@ PALETTE = {
     "dark_base"  : "#2C3B4D",
     "accent"     : "#FFB162",
     "highlight"  : "#A35139",
-    "deep_dark"  : "#1B2632",
+    "deep_dark"  : "#CD5C5C",
 }
 
 # ── Global CSS ────────────────────────────────────────────────────────────────

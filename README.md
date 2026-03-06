@@ -139,7 +139,7 @@ The project uses a consistent enterprise colour palette across all charts, noteb
 | Dark Base | `#2C3B4D` | Primary bars, lines |
 | Accent | `#FFB162` | Secondary bars, buttons |
 | Highlight | `#A35139` | Alerts, high-risk indicators |
-| Deep Dark | `#1B2632` | Text, axis labels |
+| Deep Dark | `#CD5C5C` | Text, axis labels |
 
 ---
 

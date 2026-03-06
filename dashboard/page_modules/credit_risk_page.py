@@ -16,7 +16,7 @@ sys.path.insert(0, str(BASE_DIR / "src"))
 
 PALETTE = {
     "background": "#EEE9DF", "surface": "#C9C1B1", "dark_base": "#2C3B4D",
-    "accent": "#FFB162", "highlight": "#A35139", "deep_dark": "#1B2632",
+    "accent": "#FFB162", "highlight": "#A35139", "deep_dark": "#CD5C5C",
 }
 
 plt.rcParams.update({
